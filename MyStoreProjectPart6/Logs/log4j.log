@@ -172,3 +172,10 @@
 2021-09-17 05:49:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
 2021-09-17 05:49:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
 2021-09-17 05:49:56 DEBUG cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2021-09-17 11:54:29 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2021-09-17 11:54:29 INFO  Log:22 - user is going to click on SignIn
+2021-09-17 11:54:32 INFO  Log:22 - Enter Username and Password
+2021-09-17 11:54:36 INFO  Log:22 - Verifying if user is able to login
+2021-09-17 11:54:36 INFO  Log:22 - Login is Sucess
+2021-09-17 11:54:36 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2021-09-17 11:54:40 INFO  Log:11 - =====================================addToCartTest TEST START=========================================
