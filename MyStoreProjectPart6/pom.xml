@@ -87,7 +87,7 @@
 						<suiteXmlFile>${xmlFiles}</suiteXmlFile>
 					</suiteXmlFiles>
 					<systemPropertyVariables>
-						<appURL>${url}</appURL>
+						<appURL>http://automationpractice.com/index.php</appURL>
 					</systemPropertyVariables>
 				</configuration>
 			</plugin>
